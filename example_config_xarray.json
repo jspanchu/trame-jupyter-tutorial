@@ -1,0 +1,36 @@
+{
+    "data_origin": {
+        "source": "xarray",
+        "id": "eraint_uvz"
+    },
+    "data_array": {
+        "name": "z",
+        "x": "longitude",
+        "y": "latitude",
+        "z": "level",
+        "t": "month",
+        "t_index": 0
+    },
+    "data_slices": {
+        "level": [
+            200,
+            850,
+            1
+        ],
+        "latitude": [
+            -90,
+            0,
+            10
+        ],
+        "longitude": [
+            -180,
+            0,
+            10
+        ]
+    },
+    "ui": {
+        "main_drawer": true,
+        "axis_drawer": true,
+        "expanded_coordinates": []
+    }
+}

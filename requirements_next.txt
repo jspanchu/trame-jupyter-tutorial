@@ -1,0 +1,7 @@
+jupyterlab
+trame-jupyter-extension
+trame-vtklocal
+trame-vuetify
+trame-vtk
+--extra-index-url https://wheels.vtk.org
+vtk==9.3.20240629.dev0
