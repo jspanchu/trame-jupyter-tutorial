@@ -1,4 +1,5 @@
 jupyterlab
+magpylib
 trame-jupyter-extension
 trame-vtklocal
 trame-vuetify

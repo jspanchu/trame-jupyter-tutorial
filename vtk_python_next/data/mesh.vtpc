@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<VTKFile type="vtkPartitionedDataSetCollection" version="1.0" byte_order="LittleEndian" header_type="UInt32" compressor="vtkZLibDataCompressor">
+  <vtkPartitionedDataSetCollection>
+    <Partitions index="0">
+      <DataSet index="0" file="mesh/mesh_0_0.vtp"/>
+    </Partitions>
+    <Partitions index="1">
+      <DataSet index="0" file="mesh/mesh_1_0.vtp"/>
+    </Partitions>
+    <Partitions index="2">
+      <DataSet index="0" file="mesh/mesh_2_0.vtp"/>
+    </Partitions>
+    <Partitions index="3">
+      <DataSet index="0" file="mesh/mesh_3_0.vtp"/>
+    </Partitions>
+    <Partitions index="4">
+      <DataSet index="0" file="mesh/mesh_4_0.vtp"/>
+    </Partitions>
+    <Partitions index="5">
+      <DataSet index="0" file="mesh/mesh_5_0.vtp"/>
+    </Partitions>
+    <Partitions index="6">
+      <DataSet index="0" file="mesh/mesh_6_0.vtp"/>
+    </Partitions>
+    <Partitions index="7">
+      <DataSet index="0" file="mesh/mesh_7_0.vtp"/>
+    </Partitions>
+    <Partitions index="8">
+      <DataSet index="0" file="mesh/mesh_8_0.vtp"/>
+    </Partitions>
+    <Partitions index="9">
+      <DataSet index="0" file="mesh/mesh_9_0.vtp"/>
+    </Partitions>
+    <Partitions index="10">
+      <DataSet index="0" file="mesh/mesh_10_0.vtp"/>
+    </Partitions>
+    <Partitions index="11">
+      <DataSet index="0" file="mesh/mesh_11_0.vtp"/>
+    </Partitions>
+    <Partitions index="12">
+      <DataSet index="0" file="mesh/mesh_12_0.vtp"/>
+    </Partitions>
+    <Partitions index="13">
+      <DataSet index="0" file="mesh/mesh_13_0.vtp"/>
+    </Partitions>
+    <Partitions index="14">
+      <DataSet index="0" file="mesh/mesh_14_0.vtp"/>
+    </Partitions>
+    <Partitions index="15">
+      <DataSet index="0" file="mesh/mesh_15_0.vtp"/>
+    </Partitions>
+    <Partitions index="16">
+      <DataSet index="0" file="mesh/mesh_16_0.vtp"/>
+    </Partitions>
+    <Partitions index="17">
+      <DataSet index="0" file="mesh/mesh_17_0.vtp"/>
+    </Partitions>
+    <Partitions index="18">
+      <DataSet index="0" file="mesh/mesh_18_0.vtp"/>
+    </Partitions>
+    <Partitions index="19">
+      <DataSet index="0" file="mesh/mesh_19_0.vtp"/>
+    </Partitions>
+    <Partitions index="20">
+      <DataSet index="0" file="mesh/mesh_20_0.vtp"/>
+    </Partitions>
+    <Partitions index="21">
+      <DataSet index="0" file="mesh/mesh_21_0.vtp"/>
+    </Partitions>
+    <Partitions index="22">
+      <DataSet index="0" file="mesh/mesh_22_0.vtp"/>
+    </Partitions>
+    <Partitions index="23">
+      <DataSet index="0" file="mesh/mesh_23_0.vtp"/>
+    </Partitions>
+    <Partitions index="24">
+      <DataSet index="0" file="mesh/mesh_24_0.vtp"/>
+    </Partitions>
+    <DataAssembly encoding="base64">
+      PD94bWwgdmVyc2lvbj0iMS4wIj8+Cjxhc3NlbWJseSB0eXBlPSJ2dGtEYXRhQXNzZW1ibHkiIHZlcnNpb249IjEuMCIgaWQ9IjAiPgogIDxjb2lscyBpZD0iMSI+CiAgICA8dG9yb2lkYWxfY29pbF8wIGlkPSI0IiBsYWJlbD0idG9yb2lkYWxfY29pbF8wIj4KICAgICAgPGRhdGFzZXQgaWQ9IjEiIC8+CiAgICA8L3Rvcm9pZGFsX2NvaWxfMD4KICAgIDx0b3JvaWRhbF9jb2lsXzEgaWQ9IjYiIGxhYmVsPSJ0b3JvaWRhbF9jb2lsXzEiPgogICAgICA8ZGF0YXNldCBpZD0iMyIgLz4KICAgIDwvdG9yb2lkYWxfY29pbF8xPgogICAgPHRvcm9pZGFsX2NvaWxfMiBpZD0iOCIgbGFiZWw9InRvcm9pZGFsX2NvaWxfMiI+CiAgICAgIDxkYXRhc2V0IGlkPSI1IiAvPgogICAgPC90b3JvaWRhbF9jb2lsXzI+CiAgICA8dG9yb2lkYWxfY29pbF8zIGlkPSIxMCIgbGFiZWw9InRvcm9pZGFsX2NvaWxfMyI+CiAgICAgIDxkYXRhc2V0IGlkPSI3IiAvPgogICAgPC90b3JvaWRhbF9jb2lsXzM+CiAgICA8dG9yb2lkYWxfY29pbF80IGlkPSIxMiIgbGFiZWw9InRvcm9pZGFsX2NvaWxfNCI+CiAgICAgIDxkYXRhc2V0IGlkPSI5IiAvPgogICAgPC90b3JvaWRhbF9jb2lsXzQ+CiAgICA8dG9yb2lkYWxfY29pbF81IGlkPSIxNCIgbGFiZWw9InRvcm9pZGFsX2NvaWxfNSI+CiAgICAgIDxkYXRhc2V0IGlkPSIxMSIgLz4KICAgIDwvdG9yb2lkYWxfY29pbF81PgogICAgPHRvcm9pZGFsX2NvaWxfNiBpZD0iMTYiIGxhYmVsPSJ0b3JvaWRhbF9jb2lsXzYiPgogICAgICA8ZGF0YXNldCBpZD0iMTMiIC8+CiAgICA8L3Rvcm9pZGFsX2NvaWxfNj4KICAgIDx0b3JvaWRhbF9jb2lsXzcgaWQ9IjE4IiBsYWJlbD0idG9yb2lkYWxfY29pbF83Ij4KICAgICAgPGRhdGFzZXQgaWQ9IjE1IiAvPgogICAgPC90b3JvaWRhbF9jb2lsXzc+CiAgICA8cG9sb2lkYWxfY29pbF8wIGlkPSIyMCIgbGFiZWw9InBvbG9pZGFsX2NvaWxfMCI+CiAgICAgIDxkYXRhc2V0IGlkPSIxNyIgLz4KICAgIDwvcG9sb2lkYWxfY29pbF8wPgogICAgPHBvbG9pZGFsX2NvaWxfMSBpZD0iMjIiIGxhYmVsPSJwb2xvaWRhbF9jb2lsXzEiPgogICAgICA8ZGF0YXNldCBpZD0iMTkiIC8+CiAgICA8L3BvbG9pZGFsX2NvaWxfMT4KICAgIDxwb2xvaWRhbF9jb2lsXzIgaWQ9IjI0IiBsYWJlbD0icG9sb2lkYWxfY29pbF8yIj4KICAgICAgPGRhdGFzZXQgaWQ9IjIxIiAvPgogICAgPC9wb2xvaWRhbF9jb2lsXzI+CiAgICA8cG9sb2lkYWxfY29pbF8zIGlkPSIyNiIgbGFiZWw9InBvbG9pZGFsX2NvaWxfMyI+CiAgICAgIDxkYXRhc2V0IGlkPSIyMyIgLz4KICAgIDwvcG9sb2lkYWxfY29pbF8zPgogIDwvY29pbHM+CiAgPGNvaWxfd2FsbHMgaWQ9IjIiPgogICAgPHRvcm9pZGFsX2NvaWxfd2FsbF8wIGlkPSI1IiBsYWJlbD0idG9yb2lkYWxfY29pbF93YWxsXzAiPgogICAgICA8ZGF0YXNldCBpZD0iMiIgLz4KICAgIDwvdG9yb2lkYWxfY29pbF93YWxsXzA+CiAgICA8dG9yb2lkYWxfY29pbF93YWxsXzEgaWQ9IjciIGxhYmVsPSJ0b3JvaWRhbF9jb2lsX3dhbGxfMSI+CiAgICAgIDxkYXRhc2V0IGlkPSI0IiAvPgogICAgPC90b3JvaWRhbF9jb2lsX3dhbGxfMT4KICAgIDx0b3JvaWRhbF9jb2lsX3dhbGxfMiBpZD0iOSIgbGFiZWw9InRvcm9pZGFsX2NvaWxfd2FsbF8yIj4KICAgICAgPGRhdGFzZXQgaWQ9IjYiIC8+CiAgICA8L3Rvcm9pZGFsX2NvaWxfd2FsbF8yPgogICAgPHRvcm9pZGFsX2NvaWxfd2FsbF8zIGlkPSIxMSIgbGFiZWw9InRvcm9pZGFsX2NvaWxfd2FsbF8zIj4KICAgICAgPGRhdGFzZXQgaWQ9IjgiIC8+CiAgICA8L3Rvcm9pZGFsX2NvaWxfd2FsbF8zPgogICAgPHRvcm9pZGFsX2NvaWxfd2FsbF80IGlkPSIxMyIgbGFiZWw9InRvcm9pZGFsX2NvaWxfd2FsbF80Ij4KICAgICAgPGRhdGFzZXQgaWQ9IjEwIiAvPgogICAgPC90b3JvaWRhbF9jb2lsX3dhbGxfND4KICAgIDx0b3JvaWRhbF9jb2lsX3dhbGxfNSBpZD0iMTUiIGxhYmVsPSJ0b3JvaWRhbF9jb2lsX3dhbGxfNSI+CiAgICAgIDxkYXRhc2V0IGlkPSIxMiIgLz4KICAgIDwvdG9yb2lkYWxfY29pbF93YWxsXzU+CiAgICA8dG9yb2lkYWxfY29pbF93YWxsXzYgaWQ9IjE3IiBsYWJlbD0idG9yb2lkYWxfY29pbF93YWxsXzYiPgogICAgICA8ZGF0YXNldCBpZD0iMTQiIC8+CiAgICA8L3Rvcm9pZGFsX2NvaWxfd2FsbF82PgogICAgPHRvcm9pZGFsX2NvaWxfd2FsbF83IGlkPSIxOSIgbGFiZWw9InRvcm9pZGFsX2NvaWxfd2FsbF83Ij4KICAgICAgPGRhdGFzZXQgaWQ9IjE2IiAvPgogICAgPC90b3JvaWRhbF9jb2lsX3dhbGxfNz4KICAgIDxwb2xvaWRhbF9jb2lsX3dhbGxfMCBpZD0iMjEiIGxhYmVsPSJwb2xvaWRhbF9jb2lsX3dhbGxfMCI+CiAgICAgIDxkYXRhc2V0IGlkPSIxOCIgLz4KICAgIDwvcG9sb2lkYWxfY29pbF93YWxsXzA+CiAgICA8cG9sb2lkYWxfY29pbF93YWxsXzEgaWQ9IjIzIiBsYWJlbD0icG9sb2lkYWxfY29pbF93YWxsXzEiPgogICAgICA8ZGF0YXNldCBpZD0iMjAiIC8+CiAgICA8L3BvbG9pZGFsX2NvaWxfd2FsbF8xPgogICAgPHBvbG9pZGFsX2NvaWxfd2FsbF8yIGlkPSIyNSIgbGFiZWw9InBvbG9pZGFsX2NvaWxfd2FsbF8yIj4KICAgICAgPGRhdGFzZXQgaWQ9IjIyIiAvPgogICAgPC9wb2xvaWRhbF9jb2lsX3dhbGxfMj4KICAgIDxwb2xvaWRhbF9jb2lsX3dhbGxfMyBpZD0iMjciIGxhYmVsPSJwb2xvaWRhbF9jb2lsX3dhbGxfMyI+CiAgICAgIDxkYXRhc2V0IGlkPSIyNCIgLz4KICAgIDwvcG9sb2lkYWxfY29pbF93YWxsXzM+CiAgPC9jb2lsX3dhbGxzPgogIDx2ZXNzZWwgaWQ9IjMiIGxhYmVsPSJ2ZXNzZWwiPgogICAgPGRhdGFzZXQgaWQ9IjAiIC8+CiAgPC92ZXNzZWw+CjwvYXNzZW1ibHk+Cg==
+    </DataAssembly>
+  </vtkPartitionedDataSetCollection>
+</VTKFile>
