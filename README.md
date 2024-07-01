@@ -43,8 +43,9 @@ Then you can switch between **Remote Rendering** and **Local rendering**
 Deactivate existing python virtual environment and restart Jupyter with the TRAME_INJECT_HEADER environment variable defined
 
 ```bash
+deactivate
 python3 -m venv .venv_next
-source .venv/bin/activate
+source .venv_next/bin/activate
 pip install -U pip
 pip install -r requirements_next.txt
 export TRAME_INJECT_HEADER=1
