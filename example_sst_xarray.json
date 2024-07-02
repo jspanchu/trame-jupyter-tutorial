@@ -1,0 +1,32 @@
+{
+    "data_origin": {
+        "source": "xarray",
+        "id": "ersstv5"
+    },
+    "data_array": {
+        "name": "sst",
+        "x": "lon",
+        "y": "lat",
+        "t": "time",
+        "t_index": 0
+    },
+    "ui": {
+        "main_drawer": true,
+        "axis_drawer": true,
+        "unapplied_changes": false,
+        "error_message": null,
+        "more_info_link": null,
+        "expanded_coordinates": []
+    },
+    "render": {
+        "auto": true,
+        "x_scale": 1,
+        "y_scale": 1,
+        "z_scale": 1,
+        "scalar_warp": false,
+        "cartographic": false,
+        "transparency": false,
+        "transparency_function": "linear",
+        "colormap": "viridis"
+    }
+}
